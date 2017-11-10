@@ -1,0 +1,13 @@
+On evClick
+	If pos('Button',$cobj().$name)>0
+		Do $cinst.$showmessage(con("This is ",$cobj().$name()))
+	Else
+		Do $cinst.$objs.button.$text.$assign(iVar)
+		Calculate iNumber as iNumber+1
+		Do $cinst.$objs.$add(con("Button ",iNumber),$cinst.$objs.button) Returns lref
+		
+		Calculate lref.$left as 250
+		Calculate iTop as iTop+30
+		Calculate lref.$top as iTop
+		Calculate lref.$text as con("Button ",iNumber)
+	End If

@@ -1,0 +1,5 @@
+;  Enter your initialization code here
+Calculate iVar as "Button 1"
+Calculate iNumber as "1"
+Calculate iTop as "30"
+Do $cinst.$objs.button.$text.$assign(iVar)
