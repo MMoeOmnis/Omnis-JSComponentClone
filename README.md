@@ -1,5 +1,5 @@
 # Omnis-JSComponentClone
-Applet to show how a single component can be used as a template to create more on a running remote form.
+Library to show how a single component can be used as a template to create more objects on an open remote form.
 
 Requires Omnis Studio 8.1.2 or above
 
