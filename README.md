@@ -5,7 +5,7 @@ Requires Omnis Studio 8.1.2 or above
 
 ## Contents
 
-### JS Component clone
+### JSCLONE
 
 This folder contains the source JSON files for the Omnis library in Github.
 
