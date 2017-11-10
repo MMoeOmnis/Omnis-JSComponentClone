@@ -3,7 +3,7 @@ Applet to show how a single component can be used as a template to create more o
 
 Requires Omnis Studio 8.1.2 or above
 
-Contents
+## Contents
 
 JS Component clone
 
